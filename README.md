@@ -1,2 +1,2 @@
 # Go-Tour
-Learning go the programmong language
+Learning go the programming language
